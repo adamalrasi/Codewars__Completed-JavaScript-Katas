@@ -1,5 +1,6 @@
 # Codewars__Completed-JavaScript-Katas
 Completed Codewars Katas🐱‍👤
+My Profile => [codewars.com/adamalrasi](https://www.codewars.com/users/adamalrasi)
 
 This repository contains my solutions to most of the katas I have completed. I created this repository to track my progress and become a better programmer by writing cleaner, more efficient, and readable code.😎
 
