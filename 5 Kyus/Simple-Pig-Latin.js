@@ -5,7 +5,6 @@ Examples
 pigIt('Pig latin is cool'); // igPay atinlay siay oolcay
 pigIt('Hello world !');     // elloHay orldway !
 */
-
 function pigIt(str) {
   let newStr = "";
   const array = str.split(" ");
