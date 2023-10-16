@@ -29,7 +29,7 @@ Honor Percentile:Top 18.230% <br>
 Total Completed Kata:167 <br>
 _/
 
-/_ 01/10/2023 <br>
+/_ 02/10/2023 <br>
 Progress <br>
 Rank:5 kyu <br>
 Honor:432 <br>
