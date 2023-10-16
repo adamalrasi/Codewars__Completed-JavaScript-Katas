@@ -20,20 +20,20 @@ Honor Percentile:Top 14.910% <br>
 Total Completed Kata:198 <br>
 _/
 
-/_ 09/10/2023
-Progress
-Rank:5 kyu
-Honor:501
-Leaderboard Position:#89,324
-Honor Percentile:Top 18.230%
-Total Completed Kata:167
+/_ 09/10/2023 <br>
+Progress <br>
+Rank:5 kyu <br>
+Honor:501 <br>
+Leaderboard Position:#89,324 <br>
+Honor Percentile:Top 18.230% <br>
+Total Completed Kata:167 <br>
 _/
 
-/_ 01/10/2023
-Progress
-Rank:5 kyu
-Honor:432
-Leaderboard Position:#99,233
-Honor Percentile:Top 21.910%
-Total Completed Kata:122
+/_ 01/10/2023 <br>
+Progress <br>
+Rank:5 kyu <br>
+Honor:432 <br>
+Leaderboard Position:#99,233 <br>
+Honor Percentile:Top 21.910% <br>
+Total Completed Kata:122 <br>
 _/
