@@ -11,13 +11,13 @@ I hope you find my solutions helpful. And if you don't, well, at least you can g
 
 // codewars profile stats
 
-/_ 14/10/2023
-Progress
-Rank:5 kyu
-Honor:552
-Leaderboard Position:#87,278
-Honor Percentile:Top 14.910%
-Total Completed Kata:198
+/_ 14/10/2023 <br>
+Progress <br>
+Rank:5 kyu <br>
+Honor:552 <br>
+Leaderboard Position:#87,278 <br>
+Honor Percentile:Top 14.910% <br>
+Total Completed Kata:198 <br>
 _/
 
 /_ 09/10/2023
