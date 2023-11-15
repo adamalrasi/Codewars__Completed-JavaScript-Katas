@@ -4,7 +4,7 @@ Completed Codewars Katas🐱‍👤
 My Profile => [codewars.com/adamalrasi](https://www.codewars.com/users/adamalrasi)
 <div style="align: center">
   
-![image](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/e1fa87fe-d1db-4763-b637-4c968aaabe7d)
+![image](https://github.com/adamalrasi/Codewars__Completed-JavaScript-Katas/assets/147779056/95c60837-f679-4e5f-845c-30348a48ab49)
 </div>
 
 This repository contains my solutions to most of the katas I have completed. I created this repository to track my progress and become a better programmer by writing cleaner, more efficient, and readable code.😎
